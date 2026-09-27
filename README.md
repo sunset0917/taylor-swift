@@ -16,4 +16,8 @@ Se elaboró un [dataset](data/Taylor_Swift_Data.xlsx) de la canciones de Taylor 
 
 ### Análisis
 
-![Imagen](images)
+<!--! [Imagen](images/n_canciones_por_album.png) -->
+
+<div align="center">
+  <img src="images/n_canciones_por_album.png" alt="Descripción de la imagen" width="400">
+</div>
