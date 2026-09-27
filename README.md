@@ -28,6 +28,9 @@ Se hizo análisis el cual puede ser categorizado por los siguientes tipos:
 ### Resultados
 <!--! [Imagen](images/n_canciones_por_album.png) -->
 
+1) Número de canciones por álbum:
+
+Se realizó un gráfico de barras el cual muestra la cantidad total de canciones por álbum. Se aprecia que el de mayor canciones es *The Tortured Poets Department* y el menor, *Taylor Swift (Debut)*
 <div align="center">
   <img src="images/n_canciones_por_album.png" alt="Descripción de la imagen" width="400">
 </div>
