@@ -108,3 +108,6 @@ Canción: A Perfectly Good Heart
   <img src="images/palabras_totales.png" width="45%" alt="Imagen 1">
   <img src="images/palabras_unicas.png" width="45%" alt="Imagen 2">
 </p>
+
+**4) Análisis de Sentimiento** 
+Para esto se usaron las letras de las canciones y tres modelos: *VADER, RoBERTa, TextBlob*
